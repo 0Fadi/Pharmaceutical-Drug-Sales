@@ -1,51 +1,42 @@
-# 💊 Pharmaceutical Sales Performance Analysis
+# 💊 Pharmaceutical Sales Analysis (Advanced Excel Dashboard)
 
 ## 📌 Project Overview
-This dashboard was specifically designed to leverage my pharmaceutical background to analyze drug sales performance. It provides a holistic view of revenue across different regions, dosage forms, and customer types, enabling data-driven decision-making for sales strategies.
+This project showcases my ability to transform raw pharmaceutical data into a professional, interactive dashboard using **Advanced Excel**. As a pharmacist and data analyst, I designed this tool to monitor sales performance across regions, dosage forms, and sales representatives.
 
 ---
 
-## 🛠 Tech Stack & Methodology
-* **Data Preparation:** Cleaned and structured the pharmaceutical dataset using **Excel**.
-* **Visualization:** Built an interactive dashboard in **Power BI** to track KPIs and sales trends.
-* **Analysis Focus:** Regional performance, representative efficiency, and market segmentation.
+## 🛠 Tech Stack & Skills Demonstrated
+* **Tool:** Microsoft Excel (Full End-to-End Project).
+* **Data Cleaning:** Used **Power Query** to handle missing values and structure the pharmaceutical dataset.
+* **Data Modeling:** Created complex **Pivot Tables** to aggregate revenue and units sold.
+* **Visualization:** Designed an interactive UI using **Excel Charts, Slicers, and Timelines** for a seamless user experience.
 
 ---
 
 ## 🚀 Key Insights (What the Data Reveals)
 
-### 🌍 Regional & Customer Impact
-* **Top Market:** **South America** is the leading region in revenue, followed closely by North America.
-* **Major Customer Channel:** **Pharmacies** are the primary revenue generator among customer types (Clinics, Hospitals, Supermarkets).
-* **Manufacturer Performance:** Manufacturer **"X"** shows dominant performance in both Africa and South America.
+### 🌍 Market & Customer Analysis
+* **Primary Revenue Driver:** **South America** emerged as the top-performing region.
+* **Customer Channels:** **Pharmacies** represent the largest customer segment, followed by Hospitals and Clinics.
+* **Dosage Forms:** **Tablets** are the highest-sold form, indicating market preference, followed by Syrups.
 
-### 📦 Product & Trends
-* **Best-Selling Dosage:** **Tablets** are the highest-sold dosage form, followed by Syrups and Capsules.
-* **Sales Seasonality:** A significant peak in sales was observed in **August 2023**, with a relatively stable trend through 2024.
-
-### 🏆 Sales Force Performance
-* **Top Representative:** **James Smith** is the highest-performing sales rep by revenue, followed by Lisa Williams.
+### 📈 Sales Trends
+* **Peak Performance:** A major sales spike was identified in **August 2023**.
+* **Top Sales Rep:** **James Smith** led the sales force in revenue generation.
 
 ---
 
 ## 💡 Recommendations (Action Plan)
-* **Targeted Marketing:** Increase promotional activities for **Manufacturer X** products in Asia and Europe to match its success in South America.
-* **Stock Optimization:** Prioritize inventory for **Tablets** across all regions as they constitute the highest unit volume.
-* **Rep Mentorship:** Analyze the sales techniques of **James Smith** to create a training module for lower-performing territories.
+* **Inventory Management:** Increase stock of **Tablets** and **Syrups** in the South American region to meet high demand.
+* **Resource Allocation:** Deploy more sales resources or marketing campaigns in Asia and Europe to capture untapped market shares.
+* **Performance Benchmarking:** Use **James Smith’s** sales strategy as a benchmark to train other representatives.
 
 ---
 
 ## 🖼 Dashboard Preview
-
-### 1. Sales Performance Overview
-Visualizes revenue trends and units sold by dosage form.
-<img width="1239" height="684" alt="Sales" src="https://github.com/user-attachments/assets/224e6ba7-0a7e-4b81-bb64-47e803e564ce" />
-
-
-### 2. Customer & Rep Insights
-Detailed breakdown of revenue by customer type and top sales representatives.
-<img width="1237" height="683" alt="C Insights" src="https://github.com/user-attachments/assets/5cbf80a3-98dc-42ea-9e3e-5516e2b4021e" />
-
+*(Upload your Excel screenshots here)*
+![Excel Dashboard Overview](<img width="1239" height="684" alt="Sales" src="https://github.com/user-attachments/assets/224e6ba7-0a7e-4b81-bb64-47e803e564ce" />)
+![Customer & Rep Insights](<img width="1237" height="683" alt="C Insights" src="https://github.com/user-attachments/assets/5cbf80a3-98dc-42ea-9e3e-5516e2b4021e" />)
 
 ---
 
