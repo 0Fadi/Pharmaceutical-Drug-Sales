@@ -35,9 +35,12 @@ This project showcases my ability to transform raw pharmaceutical data into a pr
 
 ## 🖼 Dashboard Preview
 
-![Excel Dashboard Overview](<img width="1239" height="684" alt="Sales" src="https://github.com/user-attachments/assets/bd4ae847-1511-482a-8e29-5db3973d0814" />
+![Excel Dashboard Overview]
+(<img width="1239" height="684" alt="Sales" src="https://github.com/user-attachments/assets/bd4ae847-1511-482a-8e29-5db3973d0814" />
 )
-![Customer & Rep Insights](<img width="1237" height="683" alt="C Insights" src="https://github.com/user-attachments/assets/08f63b6d-a9d1-40fc-aec9-b3a492dd287b" />
+
+![Customer & Rep Insights]
+(<img width="1237" height="683" alt="C Insights" src="https://github.com/user-attachments/assets/08f63b6d-a9d1-40fc-aec9-b3a492dd287b" />
 )
 
 ---
